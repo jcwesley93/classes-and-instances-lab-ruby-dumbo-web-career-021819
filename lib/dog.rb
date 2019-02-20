@@ -1,3 +1,3 @@
 class Dog 
-  fido.new 
+ fido = fido.new 
 end
